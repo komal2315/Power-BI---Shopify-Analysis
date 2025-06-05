@@ -57,6 +57,6 @@ Sample Shopify dataset
 Ideal for eCommerce analysts, BI developers, and marketing teams looking to track customer funnel performance and optimize online sales strategies.
 
 📊 Dashboard Screenshot:
-Link:
+Link:https://github.com/komal2315/Power-BI---Shopify-Analysis/blob/main/Shopify%20Dashboard%20Image.png
 
 
