@@ -1,4 +1,5 @@
 **🛍️ Shopify Sales & Customer Funnel Report | Power BI Dashboard**
+
 This Power BI dashboard provides a comprehensive view of Shopify’s sales performance, customer behavior, and retention metrics. Designed with an interactive and user-friendly layout, the report leverages page navigation and hyperlinks for seamless exploration of insights.
 
 🔍 Key Features:
