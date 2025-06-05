@@ -3,6 +3,7 @@
 This Power BI dashboard provides a comprehensive view of Shopify’s sales performance, customer behavior, and retention metrics. Designed with an interactive and user-friendly layout, the report leverages page navigation and hyperlinks for seamless exploration of insights.
 
 🔍 Key Features:
+
 💡 Transaction Performance KPIs
 
 Net Sales: $4.18M
@@ -54,3 +55,8 @@ Sample Shopify dataset
 
 📁 Use Cases:
 Ideal for eCommerce analysts, BI developers, and marketing teams looking to track customer funnel performance and optimize online sales strategies.
+
+📊 Dashboard Screenshot:
+Link:
+
+
